@@ -2,7 +2,6 @@
 
 class MyText{
   final String text;
-  String me;
 
   MyText(this.text);    
 
